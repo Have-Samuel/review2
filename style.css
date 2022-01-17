@@ -1,0 +1,31 @@
+body {
+  width: 100%;
+  margin: 0;
+  display: block;
+}
+
+.header {
+  width: 100%;
+  margin: 0;
+  background-color: snow;
+  border: thin solid snow;
+  padding: 2px;
+}
+
+.nav-bar #search {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 40px;
+  margin-left: 200px;
+  width: 50%;
+}
+
+.youtube-img {
+  width: 200px;
+  margin: 0 10px 20px 10px;
+  display: inline-block;
+}
+
+#search {
+  margin: 0 10px 40px 0;
+}
